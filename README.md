@@ -5,4 +5,4 @@ Preprocessing: Data cleaning and standardization.
 
 EDA: Correlation analysis, normality testing, and PCA visualization.
 
-Modeling: Comparative analysis of OLS
+Modeling: Comparative analysis of OLS, KNN, and SVM regressors to determine the most accurate model for thermal sensation prediction.
